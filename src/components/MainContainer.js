@@ -3,12 +3,9 @@ import VideoContainer from "./VideoContainer";
 import ButtonList from "./ButtonList";
 
 const MainContainer = () => {
-    const handleScroll = () => {
-        // const target = e.target;
-        console.log("hello3");
-    }
+
     return(
-    <div onScroll={handleScroll}>
+    <div>
         <ButtonList />
         <VideoContainer />
     </div>
