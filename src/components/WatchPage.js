@@ -8,11 +8,11 @@ import LiveChat from './LiveChat';
 const WatchPage = () => {
     const dispatch = useDispatch();
     const [ searchParams ] = useSearchParams();
-    // console.log(searchParams.get('v'));
 
     useEffect(() => {
         dispatch(openMenu());
-    }, [])
+        window.scrollTo(0,0);
+    }, []);
 
   return (
     <div className='flex flex-col w-full'>
