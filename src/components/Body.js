@@ -4,13 +4,9 @@ import { Outlet } from "react-router-dom";
 import Head from "./Head";
 
 const Body = () => {
-    const handleScroll = () => {
-        // const target = e.target;
-        console.log("hello4");
-    }
 
     return(
-    <div onScroll={handleScroll}>
+    <div>
         <Head />
         <div className="grid grid-flow-col">
             <Sidebar />
