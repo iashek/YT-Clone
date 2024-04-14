@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/YT-Clone/static/css/main.7c391149.css",
+    "main.js": "/YT-Clone/static/js/main.23f7e834.js",
+    "static/js/592.e6a22888.chunk.js": "/YT-Clone/static/js/592.e6a22888.chunk.js",
+    "static/media/minions_on_work.png": "/YT-Clone/static/media/minions_on_work.5d489d95404fb021ec13.png",
+    "static/media/youtube-5830725_640.png": "/YT-Clone/static/media/youtube-5830725_640.75a57b09524cb433a032.png",
+    "index.html": "/YT-Clone/index.html",
+    "main.7c391149.css.map": "/YT-Clone/static/css/main.7c391149.css.map",
+    "main.23f7e834.js.map": "/YT-Clone/static/js/main.23f7e834.js.map",
+    "592.e6a22888.chunk.js.map": "/YT-Clone/static/js/592.e6a22888.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c391149.css",
+    "static/js/main.23f7e834.js"
+  ]
+}
