@@ -1,3 +1,5 @@
+![image](https://github.com/iashek/YT-Clone/assets/57562968/f613e566-18d2-4548-adb9-2e854ef684f8)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
