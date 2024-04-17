@@ -9,11 +9,11 @@ import WatchPage from './components/WatchPage';
 import ConstructionPage from './components/ConstructionPage';
 
 const appRouter = createBrowserRouter([{
-  path: "/",
+  path: "/YT-Clone",
   element: <Body />,
   children:[
     {
-      path: "/",
+      path: "/YT-Clone",
       element: <MainContainer />
     },
     {
