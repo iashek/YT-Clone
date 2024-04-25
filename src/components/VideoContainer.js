@@ -14,6 +14,7 @@ const VideoContainer = () => {
     useEffect(() => {
         dispatch(openMenu());
         getVideos();
+        console.log("videos", videos);
     }, []);
     
     useEffect(() => {
@@ -44,7 +45,7 @@ const VideoContainer = () => {
     }
 
     return (
-        <div className="flex flex-wrap justify-">
+        <div className="flex flex-wrap">
             {videos[0] && <AdVideoCard info={videos[0]} advertisement={true} />}
             {videos.map((video, index) => (
                 index > 0 && 

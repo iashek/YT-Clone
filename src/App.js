@@ -13,7 +13,7 @@ const appRouter = createBrowserRouter([{
   element: <Body />,
   children:[
     {
-      path: "/YT-Clone",
+      path: "/",
       element: <MainContainer />
     },
     {
